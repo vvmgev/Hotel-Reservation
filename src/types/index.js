@@ -1,0 +1,4 @@
+export const ACTIVE_USER = 'ACTIVE_USER';
+export const REMOVE_ACTIVE_USER = 'ACTIVE_USER';
+export const HOTELS_LIST = 'HOTELS_LIST';
+export const RESERVE_HOTEL = 'RESERVE_HOTEL';
